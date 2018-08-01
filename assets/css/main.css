@@ -864,7 +864,7 @@
 
 		#thumbnails article {
 			position: relative;
-			width: 50%;
+			width: 25%;
 			background: #101010;
 			outline: 0;
 		}
@@ -1099,7 +1099,7 @@
 				position: absolute;
 				bottom: 0;
 				left: 0;
-				width: 100%;
+				width: 30%;
 				color: rgba(255, 255, 255, 0.5);
 				z-index: 1;
 			}
